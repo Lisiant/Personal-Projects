@@ -1,4 +1,4 @@
-# 📚 Personal-Projects-Portfolio
+# 📚 Personal-Projects
 
 ⏰ *최종 업데이트: 2024년 9월 22일*
 
