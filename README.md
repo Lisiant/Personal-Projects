@@ -19,11 +19,12 @@
 
 <br>
 
-## ☁️ 인프라 프로젝트 목록 
+## ☁️ Infra Projects
 
 | No | 프로젝트명 | 개요 | 기술 | 참여<br> 인원 | 링크 | 날짜 |
 |----|---------------|------|-----------|----------|------|------|
 | 1  | **Linux_PAM** | Ubuntu VM 환경에서 사용자 계정 보안 강화 | Linux, PAM | 개인 프로젝트 | [GitHub](https://github.com/Lisiant/Linux_PAM) | 2024-09-19 |
+| 2  | **Linux_Average_Load** | Ubuntu Linux 환경에서 Average Load 심층 분석 및 테스트 | Linux, Average Load, shell, stress, sysstat | 개인 프로젝트 | [GitHub](https://github.com/Lisiant/Linux_Average_Load) | 2024-09-23 |
 
 
 ---
