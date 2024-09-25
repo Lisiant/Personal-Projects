@@ -22,12 +22,12 @@
 
 ## ☁️ Infra Projects
 
-| No | 프로젝트명 | 개요 | 기술 | 참여<br> 인원 | 링크 | 날짜 |
+| No | 프로젝트명 | 개요 | 기술 | 참여<br>인원 | 링크 | 날짜 |
 |----|---------------|------|-----------|----------|------|------|
-| 1  | **Linux_PAM** | Ubuntu VM 환경에서 사용자 계정 보안 강화 | Linux, PAM | 🧍🏻‍♂️ 개인 프로젝트  | [GitHub](https://github.com/Lisiant/Linux_PAM) | 2024-09-19 |
-| 2  | **Linux_Average_Load** | Ubuntu Linux 환경에서 Average Load 심층 분석 및 테스트 | Linux, Shell Script, stress, sysstat | 🧍🏻‍♂️ 개인 프로젝트  | [GitHub](https://github.com/Lisiant/Linux_Average_Load) | 2024-09-23 |
-| 3  | **Docker Image Optimization을 통한 Spring Boot 어플리케이션 성능 개선**| Docker 이미지를 최적화하여 Spring Boot 어플리케이션 Build 성능 개선 테스트 | Docker, Docker Compose | 🧍🏻‍♂️ 개인 프로젝트 | [GitHub](https://github.com/Lisiant/Docker-Image-Optimization) | 2024-09-24 |
-| 4  | **Trivy를 통한 CI/CD 보안 검사 자동화**| Trivy를 통한 Docker 이미지에 보안 검사를 수행, GitHub Actions로 CI/CD 파이프라인 보안 검사 자동화 | Trivy, Docker, GitHub Actions | 🧍🏻‍♂️ 개인 프로젝트 | [GitHub](https://github.com/Lisiant/Security-Check-Automation-with-Trivy) | 2024-09-25 |
+| 1  | **Linux_PAM** | Ubuntu VM 환경에서 사용자 계정 보안 강화 | Linux, PAM | 🧍 개인 프로젝트  | [GitHub](https://github.com/Lisiant/Linux_PAM) | 2024-09-19 |
+| 2  | **Linux_Average_Load** | Ubuntu Linux 환경에서 Average Load 심층 분석 및 테스트 | Linux, Shell Script, stress, sysstat | 🧍 개인 프로젝트  | [GitHub](https://github.com/Lisiant/Linux_Average_Load) | 2024-09-23 |
+| 3  | **Docker Image Optimization을 통한 Spring Boot 어플리케이션 성능 개선**| Docker 이미지를 최적화하여 Spring Boot 어플리케이션 Build 성능 개선 테스트 | Docker, Docker Compose | 🧍 개인 프로젝트 | [GitHub](https://github.com/Lisiant/Docker-Image-Optimization) | 2024-09-24 |
+| 4  | **Trivy를 통한 CI/CD 보안 검사 자동화**| Trivy를 통한 Docker 이미지에 보안 검사를 수행, GitHub Actions로 CI/CD 파이프라인 보안 검사 자동화 | Trivy, Docker, GitHub Actions | 🧍 개인 프로젝트 | [GitHub](https://github.com/Lisiant/Security-Check-Automation-with-Trivy) | 2024-09-25 |
 ---
 
 지속적으로 업데이트 예정입니다.(2024-09-25)
