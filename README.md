@@ -1,6 +1,6 @@
 # 📚 Personal-Projects
 
-*⏰ 최종 업데이트: 2024년 9월 25일*
+*⏰ 최종 업데이트: 2024년 9월 27일*
 
 <br>
 
@@ -20,7 +20,7 @@
 
 <br>
 
-## ☁️ Infra Projects
+## ☁️ Infra Projects & Studies
 
 | No | 프로젝트명 | 개요 | 기술 | 참여<br>인원 | 링크 | 날짜 |
 |----|---------------|------|-----------|----------|------|------|
@@ -28,6 +28,9 @@
 | 2  | **Linux_Average_Load** | Ubuntu Linux 환경에서 Average Load 심층 분석 및 테스트 | Linux, Shell Script, stress, sysstat | 🧍 개인 프로젝트  | [GitHub](https://github.com/Lisiant/Linux_Average_Load) | 2024-09-23 |
 | 3  | **Docker Image Optimization을 통한 Spring Boot 어플리케이션 성능 개선**| Docker 이미지를 최적화하여 Spring Boot 어플리케이션 Build 성능 개선 테스트 | Docker, Docker Compose | 🧍 개인 프로젝트 | [GitHub](https://github.com/Lisiant/Docker-Image-Optimization) | 2024-09-24 |
 | 4  | **Trivy를 통한 CI/CD 보안 검사 자동화**| Trivy를 통한 Docker 이미지에 보안 검사를 수행, GitHub Actions로 CI/CD 파이프라인 보안 검사 자동화 | Trivy, Docker, GitHub Actions | 🧍 개인 프로젝트 | [GitHub](https://github.com/Lisiant/Security-Check-Automation-with-Trivy) | 2024-09-25 |
+| 5  | **Docker 기반 MySQL 백업 및 복원 자동화**| Docker 환경에서 실행 중인 MySQL 데이터베이스의 백업과 복원, Crontab으로 자동화 | Docker, MySQL, Crontab | 🧍 개인 프로젝트 | [GitHub](https://github.com/Lisiant/MySQL-Backup-Automation) | 2024-09-27 |
 ---
 
-지속적으로 업데이트 예정입니다.(2024-09-25)
+
+
+지속적으로 업데이트 예정입니다.(2024-09-27)
