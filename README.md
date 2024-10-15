@@ -29,7 +29,8 @@
 | 3  | **Docker Image Optimization을 통한 Spring Boot 어플리케이션 성능 개선**| Docker 이미지를 최적화하여 Spring Boot 어플리케이션 Build 성능 개선 테스트 | Docker, Docker Compose | 🧍 개인 프로젝트 | [GitHub](https://github.com/Lisiant/Docker-Image-Optimization) | 2024-09-24 |
 | 4  | **Trivy를 통한 CI/CD 보안 검사 자동화**| Trivy를 통한 Docker 이미지에 보안 검사를 수행, GitHub Actions로 CI/CD 파이프라인 보안 검사 자동화 | Trivy, Docker, GitHub Actions | 🧍 개인 프로젝트 | [GitHub](https://github.com/Lisiant/Security-Check-Automation-with-Trivy) | 2024-09-25 |
 | 5  | **Docker 기반 MySQL 백업 및 복원 자동화**| Docker 환경에서 실행 중인 MySQL 데이터베이스의 백업과 복원, Crontab으로 자동화 | Docker, MySQL, Crontab | 🧍 개인 프로젝트 | [GitHub](https://github.com/Lisiant/MySQL-Backup-Automation) | 2024-09-27 |
-| 6  | **Deploying a Spring Boot Application on AWS EKS**| AWS EKS를 통한 Spring Boot Application 배포 | Docker, AWS EKS, Spring boot | 🧍 개인 프로젝트 | [GitHub](https://github.com/Lisiant/AWS-EKS-Deploy) | 2024-10-15 |
+| 6  | **K8s-Minikube-Test**| Kubernetes를 활용한 Spring Boot 애플리케이션 배포 및 관리 | Docker, Kubernetes, Minikube, Spring boot | 🧍 개인 프로젝트 | [GitHub](https://github.com/Lisiant/K8s-Minikube-Test) | 2024-10-02 |
+| 7  | **Deploying a Spring Boot Application on AWS EKS**| AWS EKS를 통한 Spring Boot Application 배포 | Docker, AWS EKS, Spring boot | 🧍 개인 프로젝트 | [GitHub](https://github.com/Lisiant/AWS-EKS-Deploy) | 2024-10-15 |
 ---
 
 
